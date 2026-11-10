@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+langsmith
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+langgraph-prebuilt
+langgraph-sdk
+pydantic
+requests
+sentence-transformers
+SQLAlchemy
+streamlit
